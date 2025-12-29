@@ -48,7 +48,9 @@ export default function Home() {
 
 ---
 
-##
+---
+
+## [496164f](https://github.com/ld5ehom/quiz-nextjs/commit/496164fa4cc9c8f0c73b3e84f1df99c85a00ef59)
 
 ### 1. 루트 폴더 구조 생성
 
@@ -96,3 +98,9 @@ export default function Home() {
     -   TypeScript 타입 및 인터페이스 정의
 
 ---
+
+---
+
+##
+
+### Root Layout Footer 정리함
