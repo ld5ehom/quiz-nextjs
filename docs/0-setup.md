@@ -13,3 +13,33 @@ Creating a new Next.js app in /Users/teo/Desktop/quiz-nextjs.
 
 Using npm.
 ```
+
+---
+
+### 폴더 3개(question , quiz , state)만들고 page.tsx 파일 생성.
+
+rafce -> 탭 해서 초기화면 셋업
+
+```
+import React from "react";
+
+const page = () => {
+    return <div></div>;
+};
+
+export default page;
+```
+
+---
+
+### 메인 page.tsx 내용 다 지우고 초기화
+
+```
+export default function Home() {
+    return (
+        <div>
+            <h2>Home Page</h2>
+        </div>
+    );
+}
+```
