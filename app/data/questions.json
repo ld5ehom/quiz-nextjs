@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "text": "Which of the following is not a fruit?",
+        "options": [
+            {
+                "id": 1,
+                "text": "Apple"
+            },
+            {
+                "id": 2,
+                "text": "Mango"
+            },
+            {
+                "id": 3,
+                "text": "Banana"
+            },
+            {
+                "id": 4,
+                "text": "Pencil"
+            }
+        ],
+        "answer": 4,
+        "img": false,
+        "type": ""
+    },
+    {
+        "id": 2,
+        "text": "Which of the following is not an electronic device?",
+        "options": [
+            {
+                "id": 1,
+                "text": "Computer"
+            },
+            {
+                "id": 2,
+                "text": "Laptop"
+            },
+            {
+                "id": 3,
+                "text": "Mobile Phone"
+            },
+            {
+                "id": 4,
+                "text": "Pencil"
+            }
+        ],
+        "answer": 4,
+        "img": true,
+        "type": ""
+    }
+]
