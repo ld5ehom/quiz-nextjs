@@ -101,6 +101,26 @@ export default function Home() {
 
 ---
 
-##
+## [796129f](https://github.com/ld5ehom/quiz-nextjs/commit/796129f66bee2265a1aa1bd7e1782fde6d434615)
 
 ### Root Layout Footer 정리함
+
+---
+
+---
+
+##
+
+### Header 구현
+
+-   Heroicon 설치
+
+```
+npm install @heroicons/react
+```
+
+공통으로 사용되는 Header 컴포넌트를 생성하고 프로젝트 전반에서 사용할 기본 레이아웃 헤더를 구성함
+모바일 화면에서 사용할 사이드 메뉴를 추가하여 작은 화면에서도 네비게이션이 가능하도록 구현함
+useState를 사용해 모바일 메뉴의 열림/닫힘 상태를 관리하도록 처리함
+데스크톱 화면에서는 상단 네비게이션 바를, 모바일 화면에서는 햄버거 메뉴 아이콘을 통해 메뉴를 토글하는 구조로 분리함
+Tailwind CSS를 활용해 레이아웃, 색상, 간격 등 기본적인 UI 스타일을 정리함
